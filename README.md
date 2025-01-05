@@ -1,2 +1,2 @@
-# Ecommerce_Cucumber_Auttomation
+# Ecommerce_Cucumber_Automation
 Automate ecommerce application using cucumber
