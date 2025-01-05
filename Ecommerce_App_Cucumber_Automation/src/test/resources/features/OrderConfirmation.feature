@@ -4,8 +4,8 @@ Feature: Validate order placing functionality
 Scenario Outline: Validate placing multiple orders functionality and confirmation message
 
 Given User is on ecommerce login page and login with correct username and password
-|username            |charan1234@gmail.com  |
-|password            |Charan1234            |
+|username            |user1@gmail.com  |
+|password            |uspassword       |
 When User selects multiple orders "<orders>" from product catalog page and navigate to orders page
 And User validate actual selected orders from orders page against the list of expected orders
 Then User navigate to checkout page
@@ -21,8 +21,8 @@ Examples:
 Scenario Outline: Validate placing single order functionality and confirmation message
 
 Given User is on ecommerce login page and login with correct username and password
-|username            |charan1234@gmail.com  |
-|password            |Charan1234            |
+|username            |user1@gmail.com  |
+|password            |uspassword       |
 When User selects multiple orders "<orders>" from product catalog page and navigate to orders page
 And User validate actual selected orders from orders page against the list of expected orders
 Then User navigate to checkout page
