@@ -1,7 +1,7 @@
 
 # Ecommerce Automation using Cucumber-TestNG Framework
 
-The java maven automation project is developed on Cucumber integrated with TestNG automation framework using Selenium API library which validates the ecommerce website https://rahulshettyacademy.com/client/
+The java maven automation project is developed on Cucumber integrated with TestNG automation framework using Selenium API library which validates the test ecommerce website https://rahulshettyacademy.com/client/
 
 
 
