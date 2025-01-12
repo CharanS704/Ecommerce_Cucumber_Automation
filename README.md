@@ -17,7 +17,7 @@ The java maven automation project is developed on Cucumber integrated with TestN
 - TestNG - To validate the expected results during execution using assertions.
  - JDBC - To interact with the data base in order to perform DB operations.
  - RestAssured - To interact with the API's and validate the response as per the requests.
-- Page Object Model - Design pattern supporting modular approach i.e segregate the assertion logic from page elements and hence increase in code readability and reducing redundant code.
+- Page Object Model - Design pattern supporting modular approach i.e segregate the assertion logic from page elements and hence increase in code readability and reducing duplicate code.
 - DataTable & Examples - To provide the test data to the scenarios.
 - Syncronization - To apply smart waits as required for smooth execution.
 - Locators - To locate the webelements in order to perform actions.
