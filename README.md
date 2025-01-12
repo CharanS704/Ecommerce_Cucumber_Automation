@@ -12,7 +12,7 @@ The java maven automation project is developed on Cucumber integrated with TestN
 
 ## Concepts and features used:
 
-- Selenium 4 - To validate Web application via automation
+- Selenium 4 - To validate Web application via automation.
 - Cucumber - An open source which supports behavior driver development approach. 
 - TestNG - To validate the expected results during execution using assertions.
  - JDBC - To interact with the data base in order to perform DB operations.
