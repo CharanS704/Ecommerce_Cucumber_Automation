@@ -4,7 +4,7 @@
 The java maven automation project is developed on Cucumber integrated with TestNG automation framework using below components:
  - Selenium - To validate ecommerce website https://rahulshettyacademy.com/client/
  - RestAssured - To validate API's response as per the request.
- - JDBC - To perform DB operations perform assertions as per the scenario.
+ - JDBC - To perform DB operations and validate using TestNG assertions.
 
 
 
